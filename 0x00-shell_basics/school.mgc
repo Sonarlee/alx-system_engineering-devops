@@ -1,2 +1,2 @@
 #!/bin/bas
-file -C -m school
+file --mine-type -m school.mgc *
